@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JamshidMassomy
 - 👀 I’m interested in Back-end technologies. 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Data science and AI
+- 💞️ I’m looking to collaborate on web application projects
 - 📫 Reach me at jamshidmassomi@gmail.com
 
 <!---
