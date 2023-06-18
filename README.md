@@ -1,6 +1,6 @@
 
 
-<img src="https://images.statusfacebook.com/timeline_cover_photos/nature_timeline_covers/nature_timeline_cover_photos_22.jpg" alt="test" />
+
 
 <ul>
   <li>
