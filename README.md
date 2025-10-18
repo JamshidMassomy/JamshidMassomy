@@ -1,29 +1,9 @@
 
-
-
-
 <ul>
-  <li>
-    👋 Hi, I’m @JamshidMassomy
-  </li>
-  <li>
-    👀 I’m interested in Backend and Frontend technologies. 
-  </li>
-  <li>
-    🌱 I’m learning Data science and AI
-  </li>
-  <li>
-    💞️ I’m looking to collaborate on web projects
-  </li>
-  <li>
-    📫 Reach me at jamshidmassomi@gmail.com
-  </li>
+  <li>👋 Hi, I'm <strong>@JamshidMassomy</strong>.</li>
+  <li>👀 I'm passionate about both <strong>Backend</strong> and <strong>Frontend</strong> technologies.</li>
+  <li>🌱 Currently exploring <strong>Data Science</strong> and <strong>Artificial Intelligence</strong>.</li>
 </ul>
-
-
-
-
-
 
 <!---
 JamshidMassomy/JamshidMassomy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
